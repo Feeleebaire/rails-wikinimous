@@ -50,7 +50,7 @@ group :development do
   gem 'better_errors'
   gem 'binding_of_caller'
   gem 'faker', '~> 1.6', '>= 1.6.3'
-  gem 'bootstrap', '~> 4.0.0.alpha6'
+  gem 'bootstrap-sass'
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
